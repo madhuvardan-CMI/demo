@@ -5,8 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "hello", "postId": 105 },
+    { "id": 2, "body": "nice", "postId": 101 },
+    { "id": 3, "body": "bad", "postId": 110 }
   ],
   "profile": {
     "name": "typicode"
